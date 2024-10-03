@@ -1,2 +1,2 @@
-# co-umi-mobily
-Prezentace o možnostech mobilů a aplikací
+# NFC
+Prezentace IT1 - **Jakub Drastík**, **Matěj Vaněk**
